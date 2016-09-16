@@ -26,3 +26,7 @@ vector graphic.
 Circular Graph Sample:
 
 ![alt tag](https://github.com/mramkumar-mani/circular-chart/blob/master/Circular-Graph.png)
+
+Circular Animation Sample:
+
+![alt tag](http://i.stack.imgur.com/BPEL4.png)
