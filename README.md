@@ -22,3 +22,7 @@ var r = Raphael("example", 320, 200);
 
 Once the Raphael object has been instantiated, its various drawing, resizing and animation methods may be called to build up a 
 vector graphic.
+
+Circular Graph Sample:
+
+![alt tag](https://github.com/mramkumar-mani/circular-chart/blob/master/Circular-Graph.png)
